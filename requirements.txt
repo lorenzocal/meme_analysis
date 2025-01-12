@@ -5,3 +5,4 @@ einops>=0.6.0
 protobuf==3.20.3
 google-generativeai>=0.3.0
 frame-semantic-transformer>=0.1.0 
+python-dotenv
