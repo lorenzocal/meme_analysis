@@ -1,0 +1,7 @@
+torch>=2.0.0
+transformers>=4.30.0
+timm>=0.9.0
+einops>=0.6.0
+protobuf==3.20.3
+google-generativeai>=0.3.0
+frame-semantic-transformer>=0.1.0 
