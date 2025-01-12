@@ -47,3 +47,5 @@ Dataset/
 *.jpeg
 *.png
 *.gif
+
+*.csv
